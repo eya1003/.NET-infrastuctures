@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0559\\SW\\SW.DataAcessLayer\\SW.DataAcessLayer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0559\\SW\\SW.DataAcessLayer\\SW.DataAcessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0559\\SW\\SW.DataAcessLayer\\SW.DataAcessLayer.csproj",
+        "projectName": "SW.DataAcessLayer",
+        "projectPath": "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0559\\SW\\SW.DataAcessLayer\\SW.DataAcessLayer.csproj",
+        "packagesPath": "C:\\Users\\eyaam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0559\\SW\\SW.DataAcessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\eyaam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0559\\SW\\SW.Models\\SW.Models.csproj": {
+                "projectPath": "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0559\\SW\\SW.Models\\SW.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.22, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.22, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0559\\SW\\SW.Models\\SW.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0559\\SW\\SW.Models\\SW.Models.csproj",
+        "projectName": "SW.Models",
+        "projectPath": "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0559\\SW\\SW.Models\\SW.Models.csproj",
+        "packagesPath": "C:\\Users\\eyaam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0559\\SW\\SW.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\eyaam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

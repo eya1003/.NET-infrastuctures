@@ -1,0 +1,75 @@
+﻿@model IEnumerable<SW.Models.Nouveau>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<form asp-action="Index">
+    Search by Nouveau ID :
+    <input type="number" name="Id" />
+    <input type="submit" value="Serach" />
+</form>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nom)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Prenom)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Age)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Espece)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PereBiologique)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MereBiologique)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nom)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Prenom)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Age)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Espece)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PereBiologique)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MereBiologique)
+                </td>
+
+                <td>
+                    @Html.ActionLink("Details", "Details", new { id=item.Id }) |
+                    @Html.ActionLink("Delete", "Delete", new { id=item.Id })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

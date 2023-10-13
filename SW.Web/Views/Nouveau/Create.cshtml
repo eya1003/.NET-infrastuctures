@@ -1,0 +1,63 @@
+﻿@using SW.Models
+@model SW.Models.Citoyen
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Nouveau</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Nom" class="control-label"> Nom </label>
+                <input asp-for="Nom" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label class="control-label">Prenom</label>
+                <input class="form-control" />
+            </div>
+            <div class="form-group">
+                <label class="control-label"> Age</label>
+                <input type="number" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Espece" class="control-label">Espece</label>
+                <select asp-for="Espece" class="form-control">
+                    <option value="">Sélectionnez une espèce</option>
+                    @*<option value="@Model.Espece.Nom">@Model.Espece.Nom</option>*@
+                </select>
+                <span asp-validation-for="Espece" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="PereBiologique" class="control-label">PereBiologique</label>
+                <select asp-for="PereBiologique" class="form-control">
+                    <option value="">Sélectionnez un PereBiologique</option>
+
+                    @*<option value="@Model.PereBiologique.Id">@Model.PereBiologique.Id</option>*@
+                </select>
+                <span asp-validation-for="PereBiologique" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MereBiologique" class="control-label">MereBiologique</label>
+                <select asp-for="MereBiologique" class="form-control">
+                    <option value="">Sélectionnez une MereBiologique</option>
+                    @*<option value="@Model.MereBiologique.Id">@Model.MereBiologique.Id</option>*@
+                </select>
+                <span asp-validation-for="MereBiologique" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

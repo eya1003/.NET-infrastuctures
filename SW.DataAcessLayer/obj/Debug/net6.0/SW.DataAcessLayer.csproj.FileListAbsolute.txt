@@ -1,0 +1,15 @@
+C:\Users\amoreya\Downloads\SW\SW.DataAcessLayer\bin\Debug\net6.0\SW.DataAcessLayer.deps.json
+C:\Users\amoreya\Downloads\SW\SW.DataAcessLayer\bin\Debug\net6.0\SW.DataAcessLayer.dll
+C:\Users\amoreya\Downloads\SW\SW.DataAcessLayer\bin\Debug\net6.0\SW.DataAcessLayer.pdb
+C:\Users\amoreya\Downloads\SW\SW.DataAcessLayer\bin\Debug\net6.0\SW.Models.dll
+C:\Users\amoreya\Downloads\SW\SW.DataAcessLayer\bin\Debug\net6.0\SW.Models.pdb
+C:\Users\amoreya\Downloads\SW\SW.DataAcessLayer\obj\Debug\net6.0\SW.DataAcessLayer.csproj.AssemblyReference.cache
+C:\Users\amoreya\Downloads\SW\SW.DataAcessLayer\obj\Debug\net6.0\SW.DataAcessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amoreya\Downloads\SW\SW.DataAcessLayer\obj\Debug\net6.0\SW.DataAcessLayer.AssemblyInfoInputs.cache
+C:\Users\amoreya\Downloads\SW\SW.DataAcessLayer\obj\Debug\net6.0\SW.DataAcessLayer.AssemblyInfo.cs
+C:\Users\amoreya\Downloads\SW\SW.DataAcessLayer\obj\Debug\net6.0\SW.DataAcessLayer.csproj.CoreCompileInputs.cache
+C:\Users\amoreya\Downloads\SW\SW.DataAcessLayer\obj\Debug\net6.0\SW.DataAcessLayer.csproj.CopyComplete
+C:\Users\amoreya\Downloads\SW\SW.DataAcessLayer\obj\Debug\net6.0\SW.DataAcessLayer.dll
+C:\Users\amoreya\Downloads\SW\SW.DataAcessLayer\obj\Debug\net6.0\refint\SW.DataAcessLayer.dll
+C:\Users\amoreya\Downloads\SW\SW.DataAcessLayer\obj\Debug\net6.0\SW.DataAcessLayer.pdb
+C:\Users\amoreya\Downloads\SW\SW.DataAcessLayer\obj\Debug\net6.0\ref\SW.DataAcessLayer.dll

@@ -1,0 +1,17 @@
+C:\Users\amoreya\Downloads\SW\SW.Services\bin\Debug\net6.0\SW.Services.deps.json
+C:\Users\amoreya\Downloads\SW\SW.Services\bin\Debug\net6.0\SW.Services.dll
+C:\Users\amoreya\Downloads\SW\SW.Services\bin\Debug\net6.0\SW.Services.pdb
+C:\Users\amoreya\Downloads\SW\SW.Services\bin\Debug\net6.0\SW.Models.dll
+C:\Users\amoreya\Downloads\SW\SW.Services\bin\Debug\net6.0\SW.Models.pdb
+C:\Users\amoreya\Downloads\SW\SW.Services\obj\Debug\net6.0\SW.Services.csproj.AssemblyReference.cache
+C:\Users\amoreya\Downloads\SW\SW.Services\obj\Debug\net6.0\SW.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amoreya\Downloads\SW\SW.Services\obj\Debug\net6.0\SW.Services.AssemblyInfoInputs.cache
+C:\Users\amoreya\Downloads\SW\SW.Services\obj\Debug\net6.0\SW.Services.AssemblyInfo.cs
+C:\Users\amoreya\Downloads\SW\SW.Services\obj\Debug\net6.0\SW.Services.csproj.CoreCompileInputs.cache
+C:\Users\amoreya\Downloads\SW\SW.Services\obj\Debug\net6.0\SW.Services.csproj.CopyComplete
+C:\Users\amoreya\Downloads\SW\SW.Services\obj\Debug\net6.0\SW.Services.dll
+C:\Users\amoreya\Downloads\SW\SW.Services\obj\Debug\net6.0\refint\SW.Services.dll
+C:\Users\amoreya\Downloads\SW\SW.Services\obj\Debug\net6.0\SW.Services.pdb
+C:\Users\amoreya\Downloads\SW\SW.Services\obj\Debug\net6.0\ref\SW.Services.dll
+C:\Users\amoreya\Downloads\SW\SW.Services\bin\Debug\net6.0\SW.DataAcessLayer.dll
+C:\Users\amoreya\Downloads\SW\SW.Services\bin\Debug\net6.0\SW.DataAcessLayer.pdb

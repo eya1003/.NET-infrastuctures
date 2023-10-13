@@ -1,0 +1,12 @@
+C:\Users\amoreya\Downloads\SW\SW.Models\bin\Debug\net6.0\SW.Models.deps.json
+C:\Users\amoreya\Downloads\SW\SW.Models\bin\Debug\net6.0\SW.Models.dll
+C:\Users\amoreya\Downloads\SW\SW.Models\bin\Debug\net6.0\SW.Models.pdb
+C:\Users\amoreya\Downloads\SW\SW.Models\obj\Debug\net6.0\SW.Models.csproj.AssemblyReference.cache
+C:\Users\amoreya\Downloads\SW\SW.Models\obj\Debug\net6.0\SW.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amoreya\Downloads\SW\SW.Models\obj\Debug\net6.0\SW.Models.AssemblyInfoInputs.cache
+C:\Users\amoreya\Downloads\SW\SW.Models\obj\Debug\net6.0\SW.Models.AssemblyInfo.cs
+C:\Users\amoreya\Downloads\SW\SW.Models\obj\Debug\net6.0\SW.Models.csproj.CoreCompileInputs.cache
+C:\Users\amoreya\Downloads\SW\SW.Models\obj\Debug\net6.0\SW.Models.dll
+C:\Users\amoreya\Downloads\SW\SW.Models\obj\Debug\net6.0\refint\SW.Models.dll
+C:\Users\amoreya\Downloads\SW\SW.Models\obj\Debug\net6.0\SW.Models.pdb
+C:\Users\amoreya\Downloads\SW\SW.Models\obj\Debug\net6.0\ref\SW.Models.dll
