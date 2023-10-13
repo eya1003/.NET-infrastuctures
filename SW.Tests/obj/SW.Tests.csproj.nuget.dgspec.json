@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0559\\SW\\SW.Tests\\SW.Tests.csproj": {}
+    "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0723\\SW\\SW.Tests\\SW.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0559\\SW\\SW.DataAcessLayer\\SW.DataAcessLayer.csproj": {
+    "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0723\\SW\\SW.DataAcessLayer\\SW.DataAcessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0559\\SW\\SW.DataAcessLayer\\SW.DataAcessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0723\\SW\\SW.DataAcessLayer\\SW.DataAcessLayer.csproj",
         "projectName": "SW.DataAcessLayer",
-        "projectPath": "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0559\\SW\\SW.DataAcessLayer\\SW.DataAcessLayer.csproj",
+        "projectPath": "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0723\\SW\\SW.DataAcessLayer\\SW.DataAcessLayer.csproj",
         "packagesPath": "C:\\Users\\eyaam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0559\\SW\\SW.DataAcessLayer\\obj\\",
+        "outputPath": "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0723\\SW\\SW.DataAcessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eyaam\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0559\\SW\\SW.Models\\SW.Models.csproj": {
-                "projectPath": "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0559\\SW\\SW.Models\\SW.Models.csproj"
+              "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0723\\SW\\SW.Models\\SW.Models.csproj": {
+                "projectPath": "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0723\\SW\\SW.Models\\SW.Models.csproj"
               }
             }
           }
@@ -73,14 +73,14 @@
         }
       }
     },
-    "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0559\\SW\\SW.Models\\SW.Models.csproj": {
+    "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0723\\SW\\SW.Models\\SW.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0559\\SW\\SW.Models\\SW.Models.csproj",
+        "projectUniqueName": "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0723\\SW\\SW.Models\\SW.Models.csproj",
         "projectName": "SW.Models",
-        "projectPath": "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0559\\SW\\SW.Models\\SW.Models.csproj",
+        "projectPath": "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0723\\SW\\SW.Models\\SW.Models.csproj",
         "packagesPath": "C:\\Users\\eyaam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0559\\SW\\SW.Models\\obj\\",
+        "outputPath": "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0723\\SW\\SW.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eyaam\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -128,14 +128,14 @@
         }
       }
     },
-    "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0559\\SW\\SW.Services\\SW.Services.csproj": {
+    "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0723\\SW\\SW.Services\\SW.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0559\\SW\\SW.Services\\SW.Services.csproj",
+        "projectUniqueName": "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0723\\SW\\SW.Services\\SW.Services.csproj",
         "projectName": "SW.Services",
-        "projectPath": "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0559\\SW\\SW.Services\\SW.Services.csproj",
+        "projectPath": "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0723\\SW\\SW.Services\\SW.Services.csproj",
         "packagesPath": "C:\\Users\\eyaam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0559\\SW\\SW.Services\\obj\\",
+        "outputPath": "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0723\\SW\\SW.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eyaam\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -152,11 +152,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0559\\SW\\SW.DataAcessLayer\\SW.DataAcessLayer.csproj": {
-                "projectPath": "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0559\\SW\\SW.DataAcessLayer\\SW.DataAcessLayer.csproj"
+              "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0723\\SW\\SW.DataAcessLayer\\SW.DataAcessLayer.csproj": {
+                "projectPath": "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0723\\SW\\SW.DataAcessLayer\\SW.DataAcessLayer.csproj"
               },
-              "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0559\\SW\\SW.Models\\SW.Models.csproj": {
-                "projectPath": "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0559\\SW\\SW.Models\\SW.Models.csproj"
+              "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0723\\SW\\SW.Models\\SW.Models.csproj": {
+                "projectPath": "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0723\\SW\\SW.Models\\SW.Models.csproj"
               }
             }
           }
@@ -190,14 +190,14 @@
         }
       }
     },
-    "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0559\\SW\\SW.Tests\\SW.Tests.csproj": {
+    "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0723\\SW\\SW.Tests\\SW.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0559\\SW\\SW.Tests\\SW.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0723\\SW\\SW.Tests\\SW.Tests.csproj",
         "projectName": "SW.Tests",
-        "projectPath": "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0559\\SW\\SW.Tests\\SW.Tests.csproj",
+        "projectPath": "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0723\\SW\\SW.Tests\\SW.Tests.csproj",
         "packagesPath": "C:\\Users\\eyaam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0559\\SW\\SW.Tests\\obj\\",
+        "outputPath": "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0723\\SW\\SW.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eyaam\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -214,8 +214,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0559\\SW\\SW.Services\\SW.Services.csproj": {
-                "projectPath": "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0559\\SW\\SW.Services\\SW.Services.csproj"
+              "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0723\\SW\\SW.Services\\SW.Services.csproj": {
+                "projectPath": "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0723\\SW\\SW.Services\\SW.Services.csproj"
               }
             }
           }

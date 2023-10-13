@@ -8,6 +8,7 @@ namespace SW.Models
 {
     public class Espece
     {
+        public int Id { get; set; }
         public string Nom { get; set; }
         public int Longevite { get; set; }
         public int Majorite { get; set; }

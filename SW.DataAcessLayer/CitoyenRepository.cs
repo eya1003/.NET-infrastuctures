@@ -14,6 +14,7 @@ namespace SW.DataAcessLayer
         
 
         }
+
         public List<Citoyen> GetCitoyens()
         {
             return SWDBContext.Citoyens.ToList();

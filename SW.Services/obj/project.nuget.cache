@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dH5/yG07kFDP/88P5S1OSUnDdb6KydBhVv01euyxubenDK3Zu7pTQMkS24/Yc79gjbZmo3/db+MdTQLuT9Mlxg==",
+  "dgSpecHash": "3XIgIEgpYGv2/PuCYQG6BHNgZZNO3Eygz1ZaVenka11Z7ZgWqdM5Zz/F7ixR/R/emHuB/SLY8eGbeqvpDNUX+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0559\\SW\\SW.Services\\SW.Services.csproj",
+  "projectFilePath": "C:\\Users\\eyaam\\Desktop\\ESEO\\.net\\seance 5\\wetransfer_sw_2023-10-13_0723\\SW\\SW.Services\\SW.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eyaam\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.22\\microsoft.data.sqlite.core.6.0.22.nupkg.sha512",
     "C:\\Users\\eyaam\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.22\\microsoft.entityframeworkcore.6.0.22.nupkg.sha512",

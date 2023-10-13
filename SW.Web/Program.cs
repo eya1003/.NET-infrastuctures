@@ -11,6 +11,9 @@ builder.Services.AddDbContext<StarWarsDBContext>(options =>
 {
     options.UseSqlite(builder.Configuration.GetConnectionString("SW"));
 });
+// injection des dependances 
+//quand j'ai besoin d'un metier 
+//sim j'appel le division citoyen tu me fait une instance 
 builder.Services.AddScoped<DivisionCitoyen>();
 builder.Services.AddScoped<CitoyenRepository>();
 

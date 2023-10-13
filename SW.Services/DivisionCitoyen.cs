@@ -22,5 +22,11 @@ namespace SW.Services
             //age des parents, présence des parents, espèce,etc
             citoyenRepository.AddCitoyen(c);
         }
+
+        public List<Citoyen> GetCitoyens()
+        {
+            return citoyenRepository.GetCitoyens();
+        }
+           
     }
 }

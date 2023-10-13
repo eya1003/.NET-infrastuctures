@@ -385,3 +385,5 @@ C:\Users\amoreya\Downloads\SW\SW.Web\bin\Debug\net6.0\runtimes\win-x64\native\e_
 C:\Users\amoreya\Downloads\SW\SW.Web\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\amoreya\Downloads\SW\SW.Web\bin\Debug\net6.0\SW.DataAcessLayer.dll
 C:\Users\amoreya\Downloads\SW\SW.Web\bin\Debug\net6.0\SW.DataAcessLayer.pdb
+C:\Users\amoreya\Downloads\SW\SW.Web\bin\Debug\net6.0\Humanizer.dll
+C:\Users\amoreya\Downloads\SW\SW.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
